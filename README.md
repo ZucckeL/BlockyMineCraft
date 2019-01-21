@@ -22,3 +22,36 @@ Oyuncuların kendi bölgelerinde kuracakları alanlar, bariyerlerle
 çevrelenerek daha güvenli bir alan haline gelecektir. Oyuncunun
 karşısına çeşitli tehlikeler çıkacak ve son oyuncu kaldığında
 galibiyet elde edilecektir.
+
+System Design
+
+  The game consists of collecting multiple players around
+2 main components. The first is the world and the second is
+the character component. The world consists of cubes where
+our character can change. The character is a combination of
+the player's direction and the main camera(first person
+Character). The interaction of these two components will
+occur when the character changes the cube at some point on
+Earth. It is designed with Unity3D libraries for the creation
+of the world and this world consists of random. Each new
+game will create a new world.Players will continue to fight
+at the same time until the last player is left. 
+The project is implemented in Windows operating
+system. This is because the Windows operating system is
+the most common operating system today. The Unity3D
+game engine has been implemented. There are two reasons
+why Unity3D is used; the first is that the application is free,
+and the second is that the libraries it provides to the user are
+very useful and understandable. It also provides an easy
+environment for multi-player systems to realize the serverclient relationship. So Unity3D is a good choice. C# is
+selected as the programming language of the project.
+Unity3D will be developed with C# language because it
+offers a lot of resources for Game Development.
+When the player starts the game, he / she will see the
+main menu in the first place.The main menu will select
+single player or multiplayer as content. After the player
+selection is made, if the game is played multiplayer, a server
+must be created or connected to a server. After all players
+are connected, for the new game, the game will be installed
+and the game will start.
+
