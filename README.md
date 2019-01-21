@@ -75,14 +75,14 @@ must be created or connected to a server. After all players
 are connected, for the new game, the game will be installed
 and the game will start.
 
-- - Obtaining of Cubes and Barriers:
+  - - Obtaining of Cubes and Barriers:
 
   The player will be able to go to NPCs and access Cube
 models. NPCs distributed randomly across the globe will be
 used. Players will also be able to obtain the cubes by
 breaking the cubes in the world.
 
-- - The End Of The Game Design:
+  - - The End Of The Game Design:
 
   In the game each player must have an area of barriers to
 protect himself / herself. This area can be broken with a
