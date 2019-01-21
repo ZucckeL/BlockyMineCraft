@@ -113,6 +113,7 @@ performance can be negatively affected. Because the fields
 that are created are stored in memory for reuse. If memory
 is not sufficient, this can cause problems.
   Conclusion:
+  
   As a conclusion, compared to similar projects, it was
 seen that a single-player design was made by creating fixed
 maps in most projects. It was also observed that they were
