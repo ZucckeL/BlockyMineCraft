@@ -1,5 +1,5 @@
 # BlockyMineCraft
-Abstract — Minecraft, one of the masterpieces of the game
+- Abstract — Minecraft, one of the masterpieces of the game
 world, has been designed to improve people's visual memory,
 thinking skills and design ability by stepping out of other game
 patterns. This fiction has become a world where every age group
@@ -10,7 +10,7 @@ established by players in their own regions will be surrounded by
 barriers and become a safer area. There will be various dangers
 against the player and the final player will win.
 
-Özetçe — Oyun dünyasının başyapıtlarından biri olan
+- Özetçe — Oyun dünyasının başyapıtlarından biri olan
 Minecraft, diğer oyun kalıplarının dışına çıkarak insanların görsel
 hafızasını, düşünme becerilerini ve tasarım kabiliyetini
 geliştirmek üzere kurgulanmıştır. Bu kurgu, insanları
@@ -23,7 +23,7 @@ Oyuncuların kendi bölgelerinde kuracakları alanlar, bariyerlerle
 karşısına çeşitli tehlikeler çıkacak ve son oyuncu kaldığında
 galibiyet elde edilecektir.
 
-Introduction:
+- Introduction:
 
   Our project aims to help people to enjoy their daily stress
 and improve their creativity. The game we have developed
@@ -41,7 +41,7 @@ have fun. In order to address the game tastes of people, the
 first step will be to determine how much of a game is
 designed in today's technology through evaluation studies.
 
-System Design:
+- System Design:
 
   The game consists of collecting multiple players around
 2 main components. The first is the world and the second is
@@ -75,14 +75,14 @@ must be created or connected to a server. After all players
 are connected, for the new game, the game will be installed
 and the game will start.
 
-- Obtaining of Cubes and Barriers:
+- - Obtaining of Cubes and Barriers:
 
   The player will be able to go to NPCs and access Cube
 models. NPCs distributed randomly across the globe will be
 used. Players will also be able to obtain the cubes by
 breaking the cubes in the world.
 
-- The End Of The Game Design:
+- - The End Of The Game Design:
 
   In the game each player must have an area of barriers to
 protect himself / herself. This area can be broken with a
@@ -92,7 +92,7 @@ each other with these weapons, and the game will be over
 when their health points are done. The game will continue
 until the last player remains.
 
-Results and Discussion:
+- Results and Discussion:
 
   This project is a competitive environment where people
 enjoy and develop their creativity with great freedoms. The
@@ -113,7 +113,7 @@ performance can be negatively affected. Because the fields
 that are created are stored in memory for reuse. If memory
 is not sufficient, this can cause problems.
  
- Conclusion:
+ - Conclusion:
   
   As a conclusion, compared to similar projects, it was
 seen that a single-player design was made by creating fixed
